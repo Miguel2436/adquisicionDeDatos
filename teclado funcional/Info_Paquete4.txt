@@ -1,0 +1,6 @@
+Nota 1: REM_D, duracion: 1.11 segundos
+Nota 2: SOL_G, duracion: 1.02 segundos
+Nota 3: SOL_G, duracion: 1.36 segundos
+Nota 4: DOM_C, duracion: 1.09 segundos
+Nota 5: RE_D, duracion: 1.10 segundos
+Nota 6: DOM_C, duracion: 1.16 segundos

@@ -1,0 +1,19 @@
+Script iniciado a las 2023-10-02 11:05:44
+2023-10-02 11:05:45 - RE_D presionada
+2023-10-02 11:05:46 - RE_D liberada. Duración: 0.21 segundos
+2023-10-02 11:05:46 - MI_E presionada
+2023-10-02 11:05:46 - MI_E liberada. Duración: 0.23 segundos
+2023-10-02 11:05:46 - FA_F presionada
+2023-10-02 11:05:46 - FA_F liberada. Duración: 0.23 segundos
+2023-10-02 11:05:47 - SOL_G presionada
+2023-10-02 11:05:47 - SOL_G liberada. Duración: 0.19 segundos
+2023-10-02 11:05:47 - LA_A presionada
+2023-10-02 11:05:47 - LA_A liberada. Duración: 0.28 segundos
+2023-10-02 11:05:47 - SI_B presionada
+2023-10-02 11:05:48 - SI_B liberada. Duración: 0.23 segundos
+2023-10-02 11:05:48 - DOM_C presionada
+2023-10-02 11:05:48 - REM_D presionada
+2023-10-02 11:05:48 - DOM_C liberada. Duración: 0.25 segundos
+2023-10-02 11:05:48 - MIM_E presionada
+2023-10-02 11:05:48 - REM_D liberada. Duración: 0.28 segundos
+2023-10-02 11:05:48 - MIM_E liberada. Duración: 0.21 segundos

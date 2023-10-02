@@ -1,0 +1,7 @@
+Script iniciado a las 2023-10-02 13:50:16
+RE_D presionada por 0.70 segundos
+SOL_G presionada por 0.72 segundos
+LA_A presionada por 0.79 segundos
+REM_D presionada por 0.74 segundos
+DOM_C presionada por 0.81 segundos
+MIM_E presionada por 0.81 segundos

@@ -1,0 +1,6 @@
+Nota 1: SI_B, duracion: 1.00 segundos
+Nota 2: FA_F, duracion: 1.03 segundos
+Nota 3: MIM_E, duracion: 1.08 segundos
+Nota 4: SOL_G, duracion: 1.43 segundos
+Nota 5: MI_E, duracion: 1.43 segundos
+Nota 6: FA_F, duracion: 1.32 segundos
